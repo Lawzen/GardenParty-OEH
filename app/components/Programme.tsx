@@ -164,7 +164,7 @@ const Programme: React.FC = () => {
         </div>
 
         {/* Timeline du programme */}
-        <div className="max-w-4xl mx-auto mb-16">
+        <div className="max-w-4xl mx-auto mb-48">
           <div className="relative">
             {/* Ligne de temps */}
             <div className="absolute left-1/2 transform -translate-x-1/2 w-1 h-full bg-gradient-to-b from-pink-300 to-green-300 rounded-full"></div>
@@ -212,7 +212,7 @@ const Programme: React.FC = () => {
           </div>
         </div>
 
-        {/* Services et animations */}
+        {/* Services et animations 
         <div className="mb-16">
           <h3 className="text-3xl font-bold text-center mb-12">
             <span className="bg-gradient-to-r from-green-600 to-pink-600 bg-clip-text text-transparent">
@@ -234,12 +234,12 @@ const Programme: React.FC = () => {
               </div>
             ))}
           </div>
-        </div>
+        </div>*/}
 
         {/* Informations importantes - UI complètement repensée */}
-<div className="space-y-8">
+<div className="space-y-8 ">
   <div className="text-center">
-    <h3 className="text-3xl md:text-4xl font-bold mb-4">
+    <h3 className="text-3xl md:text-4xl font-bold ">
       <span className="bg-gradient-to-r from-rose-600 to-pink-600 bg-clip-text text-transparent">
         Informations Importantes
       </span>
