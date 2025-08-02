@@ -1,0 +1,33 @@
+{
+    "partners": [
+      {
+        "id": 1,
+        "name": "HELHa",
+        "logo": "./assets/partners/LOGO_HELHa 1.svg",
+        "website": "https://www.helha.be",
+        "category": "education"
+      },
+      {
+        "id": 2,
+        "name": "Red Bull",
+        "logo": "./assets/partners/redbullenergydrink.svg",
+        "website": "https://www.redbull.com",
+        "category": "beverage"
+      },
+      {
+        "id": 3,
+        "name": "Dubuisson",
+        "logo": "./assets/partners/Dubuisson.png",
+        "website": "https://www.dubuisson.com",
+        "category": "beverage"
+      },
+      {
+        "id": 4,
+        "name": "AB InBev",
+        "logo": "./assets/partners/AB-InBev-logo.png",
+        "website": "https://www.ab-inbev.com",
+        "category": "beverage"
+      }
+    ]
+  }
+  

@@ -1,0 +1,60 @@
+{
+    "artists": [
+      {
+        "id": 1,
+        "name": "DJ Charlie Pieron",
+        "description": "Multi-genre DJ & Producer",
+        "image": "./assets/artists/djmax.jpg",
+        "tags": ["Melodic Techno", "House"],
+        "socialLinks": {
+          "instagram": "charliepieron.off",
+          "soundcloud": "charlie-pieron"
+        }
+      },
+      {
+        "id": 2,
+        "name": "DJ Orel",
+        "description": "DJ Montois prêt à mettre le feu !",
+        "image": "./assets/artists/Tommy.jpg",
+        "tags": ["Tomorrowland"],
+        "socialLinks": {
+          "instagram": "@djorel",
+          "facebook": "DJOrelOfficial"
+        }
+      },
+      {
+        "id": 3,
+        "name": "DJ Kyrios",
+        "description": "DJ & Producer montois",
+        "image": "./assets/artists/mirco.jfif",
+        "tags": ["House"],
+        "socialLinks": {
+          "instagram": "@djkyrios",
+          "soundcloud": "kyrios-music"
+        }
+      },
+      {
+        "id": 4,
+        "name": "Les Pétales de Sakura",
+        "description": "Groupe de rock alternatif montois",
+        "image": "./assets/artists/groupe1.jpg",
+        "tags": ["Rock", "Alternative", "GardenParty"],
+        "socialLinks": {
+          "instagram": "@petalesdesakura",
+          "facebook": "LesPetalesDeSakura"
+        }
+      },
+      {
+        "id": 5,
+        "name": "The Cherry Blossoms",
+        "description": "Groupe pop-folk avec influences japonaises",
+        "image": "./assets/artists/groupe2.jpg",
+        "tags": ["Pop", "Folk", "GardenParty"],
+        "socialLinks": {
+          "instagram": "@cherryblossomsband",
+          "facebook": "TheCherryBlossoms"
+        }
+      }
+    ]
+  }
+  
